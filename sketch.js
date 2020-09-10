@@ -28,9 +28,9 @@ function setup() {
 function draw() {
   rectMode(CENTER);
   background(230);
- 
+	
+ paper1.display();
   dustbin1.display();
-  paper1.display();
   ground1.display();
   
  
